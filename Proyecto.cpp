@@ -55,3 +55,5 @@ void agregarContacto() {
     cout << "Email: ";
     getline(cin, nuevo->email);
     nuevo->siguiente = NULL;
+
+    //Hasta aquí, de aquí sigue total contactos
