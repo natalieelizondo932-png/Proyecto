@@ -56,4 +56,4 @@ void agregarContacto() {
     getline(cin, nuevo->email);
     nuevo->siguiente = NULL;
 
-    //Hasta aquí, de aquí sigue total contactos
+    //Hasta aquí, de aquí sigue total contactos.
